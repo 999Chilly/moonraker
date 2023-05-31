@@ -5,7 +5,7 @@
 DATA_PATH="${HOME}/printer_data"
 DATA_PATH_BKP="${HOME}/.broken_printer_data"
 DB_PATH="${HOME}/.moonraker_database"
-CONFIG_PATH="${HOME}/klipper_config"
+CONFIG_PATH="${HOME}/printer_data/config"
 LOG_PATH="${HOME}/klipper_logs"
 GCODE_PATH="${HOME}/gcode_files"
 MOONRAKER_CONF="${CONFIG_PATH}/moonraker.conf"
